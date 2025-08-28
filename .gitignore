@@ -1,0 +1,47 @@
+# Laravel & PHP
+/vendor
+/node_modules
+/.idea
+/.vscode
+/.phpunit.result.cache
+/.env
+/.env.local
+/.env.*.local
+/.phpstorm.meta.php
+/storage/*.key
+/storage/framework/cache/data
+/storage/debugbar
+/storage/logs
+/storage/app/public
+/public/storage
+Homestead.yaml
+Homestead.json
+.env.backup
+
+# Composer
+composer.lock
+
+# NPM / Yarn / PNPM
+npm-debug.log
+yarn-error.log
+pnpm-lock.yaml
+package-lock.json
+
+# IDE / Editors
+*.sublime-workspace
+*.sublime-project
+*.swp
+*.DS_Store
+*.log
+
+# OS Files
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Laravel Mix / Vite / Frontend
+/public/hot
+/public/mix-manifest.json
+/public/build
+/resources/js/vendor
+/resources/sass/vendor
