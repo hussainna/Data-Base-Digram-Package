@@ -1,5 +1,5 @@
 {
-    "name": "hussain-alasdy/database-package",
+    "name": "hussain-alasdy/filament-database-digram",
     "description": "database digram will allow to developer handle his own database with beatifull ui",
     "type": "library",
     "autoload": {
