@@ -1,5 +1,5 @@
 {
-    "name": "hussain/database-package",
+    "name": "hussain-alasdy/database-package",
     "description": "database digram will allow to developer handle his own database with beatifull ui",
     "type": "library",
     "autoload": {
