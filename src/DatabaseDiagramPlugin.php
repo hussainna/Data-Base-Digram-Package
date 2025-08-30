@@ -2,9 +2,9 @@
 
 namespace MyPackage\DatabaseDigram;
 
-use App\Filament\Pages\DbDigram;
 use Filament\Contracts\Plugin;
 use Filament\Panel;
+use MyPackage\DatabaseDigram\Filament\Pages\DbDigram;
 
 class DatabaseDiagramPlugin implements Plugin
 {
