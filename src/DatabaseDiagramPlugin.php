@@ -4,7 +4,7 @@ namespace Hussain\DatabaseDiagram; // صحح "Digram" إلى "Diagram"
 
 use Filament\Contracts\Plugin;
 use Filament\Panel;
-use Hussain\DatabaseDigram\Filament\Pages\DbDigram;
+use Hussain\DatabaseDiagram\Filament\Pages\DbDigram;
 
 class DatabaseDiagramPlugin implements Plugin
 {
