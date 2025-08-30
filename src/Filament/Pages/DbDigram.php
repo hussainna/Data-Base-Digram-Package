@@ -1,6 +1,6 @@
 <?php
 
-namespace MyPackage\DatabaseDigram\Filament\Pages;
+namespace Hussain\DatabaseDigram\Filament\Pages;
 
 use Recca0120\LaravelERD\ERD;
 use Filament\Pages\Page;

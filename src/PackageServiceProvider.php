@@ -1,6 +1,6 @@
 <?php
 
-namespace MyPackage\DatabaseDigram;
+namespace Hussain\DatabaseDigram;
 
 use Spatie\LaravelPackageTools\Package;
 use Spatie\LaravelPackageTools\PackageServiceProvider as LaravelPackageToolsPackageServiceProvider;

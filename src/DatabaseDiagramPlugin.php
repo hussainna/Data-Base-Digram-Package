@@ -1,10 +1,10 @@
 <?php
 
-namespace MyPackage\DatabaseDigram;
+namespace Hussain\DatabaseDigram;
 
 use Filament\Contracts\Plugin;
 use Filament\Panel;
-use MyPackage\DatabaseDigram\Filament\Pages\DbDigram;
+use Hussain\DatabaseDigram\Filament\Pages\DbDigram;
 
 class DatabaseDiagramPlugin implements Plugin
 {
