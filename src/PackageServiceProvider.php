@@ -1,6 +1,6 @@
 <?php
 
-namespace Hussain\DatabaseDigram;
+namespace Hussain\DatabaseDiagram; // صحح "Digram" إلى "Diagram"
 
 use Spatie\LaravelPackageTools\Package;
 use Spatie\LaravelPackageTools\PackageServiceProvider as LaravelPackageToolsPackageServiceProvider;
