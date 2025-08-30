@@ -14,7 +14,7 @@ use Illuminate\Support\Str;
 
 class DbDigram extends Page
 {
-    protected string $view = 'filament.pages.db-digram';
+    protected string $view = 'database-diagram::db-digram';
 
     public $config = null;
     public $extension = null;
